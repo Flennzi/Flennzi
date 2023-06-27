@@ -3,6 +3,8 @@
 <h3 align="center">Beginner C# and Unity programmer. 🇷🇺</h3>
 
 Readme
+en Beginner programmer learning C#. In the future I want to learn Python and Rust.
+🇷🇺 Начинающий программист учу C#. В будующем хочу изучить Python и Rust.
 
 Languages and Tools
 
