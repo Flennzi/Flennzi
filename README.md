@@ -8,5 +8,13 @@
 - 🔭 Изучаю работу C# в Unity.
 - 🔴 Изучаю моделирование в Blender.
 
+---
 
+🤝 Социальные сети:
+
+
+---
+
+💻 Технологии:
+img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
 
