@@ -1,16 +1,12 @@
-<h1 align="center">Hi there, I'm <a href="https://discordapp.com/users/739141104422617089/" target="_blank">Flennzi</a> 
+<h1 align="center">Привет, меня зовут <a href="https://discordapp.com/users/739141104422617089/" target="_blank">Flennzi</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Beginner C# and Unity programmer. 🇷🇺</h3>
+<h3 align="center">Начинающий программист C# и Unity.. 🇷🇺</h3>
 
-Readme/a
-en Beginner programmer learning C#. In the future I want to learn Python and Rust.
-🇷🇺 Начинающий программист учу C#. В будующем хочу изучить Python и Rust.
+👨‍💻 Обо мне:
+Я начинающий юнити разработчик. Мой путь в it начался с курсов на ютубе. Сейчас активно учу C# и Unity в целом. Скоро буду создать не плохие проекты.
 
-Languages and Tools
-
-Follow me
-
-Achievements
+- 🔭 Изучаю работу C# в Unity.
+- 🔴 Изучаю моделирование в Blender.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
